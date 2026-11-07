@@ -1,0 +1,30 @@
+SWYNEX - DATA PREPARATION REPORT
+================================
+Rows in raw dataset: 26
+Exact duplicate rows removed: 1
+Rows in cleaned dataset: 25
+Missing/invalid values handled: 6
+Remaining missing values: 0
+
+Cleaned dataset shape:
+Rows: 25, Columns: 10
+
+Column data types:
+student_id                      object
+name                    string[python]
+age                              int64
+gender                  string[python]
+attendance_pct                 float64
+study_hours_per_week           float64
+previous_score                 float64
+final_score                    float64
+department              string[python]
+city                    string[python]
+
+Preview:
+student_id         name  age gender  attendance_pct  study_hours_per_week  previous_score  final_score department    city
+      S001 Rahul Sharma   20   Male            85.0                  12.0            72.0         78.0        CSE  Bhopal
+      S002  Priya Verma   21 Female            90.0                  15.0            81.0         88.0        CSE  Indore
+      S003    Aman Khan   19   Male            75.0                   8.0            61.0         65.0        ECE  Bhopal
+      S004  Sneha Patel   20 Female            86.5                  14.0            77.0         82.0        CSE  Indore
+      S005  Arjun Singh   22   Male            88.0                  10.0            69.0         74.0         ME Gwalior

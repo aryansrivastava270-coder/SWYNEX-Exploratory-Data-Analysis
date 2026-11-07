@@ -1,0 +1,26 @@
+student_id,name,age,gender,attendance_pct,study_hours_per_week,previous_score,final_score,department,city
+S001,Rahul Sharma,20,Male,85.0,12.0,72.0,78.0,CSE,Bhopal
+S002,Priya Verma,21,Female,90.0,15.0,81.0,88.0,CSE,Indore
+S003,Aman Khan,19,Male,75.0,8.0,61.0,65.0,ECE,Bhopal
+S004,Sneha Patel,20,Female,86.5,14.0,77.0,82.0,CSE,Indore
+S005,Arjun Singh,22,Male,88.0,10.0,69.0,74.0,ME,Gwalior
+S006,Neha Gupta,20,Female,92.0,18.0,85.0,91.0,ECE,Bhopal
+S007,Vikram Das,19,Male,67.0,6.0,55.0,59.0,ME,Jabalpur
+S008,Isha Roy,21,Female,95.0,20.0,90.0,94.0,CSE,Bhopal
+S009,Karan Mehta,23,Male,81.0,11.0,70.0,76.0,ECE,Indore
+S010,Ananya Joshi,20,Female,89.0,13.0,78.0,84.0,CSE,Gwalior
+S011,Rohit Yadav,19,Male,73.0,7.0,76.5,63.0,ME,Bhopal
+S012,Pooja Nair,22,Female,97.0,22.0,92.0,96.0,ECE,Indore
+S013,Dev Malhotra,21,Male,86.5,13.0,74.0,79.0,CSE,Jabalpur
+S014,Meera Iyer,20,Female,86.0,16.0,80.0,87.0,ECE,Bhopal
+S015,Kabir Ali,19,Male,78.0,9.0,66.0,71.0,ME,Indore
+S016,Tanya Bose,21,Female,91.0,17.0,88.0,93.0,CSE,Gwalior
+S017,Aditya Rao,20,Male,84.0,12.0,73.0,77.0,ECE,Bhopal
+S018,Simran Kaur,22,Female,86.5,19.0,86.0,90.0,CSE,Indore
+S019,Nikhil Jain,19,Male,69.0,5.0,58.0,62.0,ME,Jabalpur
+S020,Riya Sen,20,Female,93.0,21.0,89.0,95.0,ECE,Bhopal
+S021,Manav Kapoor,20,Male,82.0,10.0,71.0,75.0,CSE,Indore
+S022,Aarav Mishra,20,Male,87.0,14.0,76.0,81.0,CSE,Bhopal
+S023,Diya Shah,21,Female,90.0,16.0,83.0,89.0,ECE,Gwalior
+S024,Yash Thakur,19,Male,76.0,8.0,64.0,68.0,ME,Bhopal
+S025,Naina Paul,20,Female,88.0,13.0,79.0,85.0,CSE,Indore
